@@ -14,12 +14,15 @@
 
 }
 
+/* footer global edits */
 .footer-section {
     background-color: #161616;
     padding: 100px;
 
 }
 
+
+/* pc responsive */
 @media screen and (min-width:976px) {
 
     .captionstyle h1 {
@@ -63,6 +66,8 @@
 
 }
 
+
+/* tab responsive */
 @media screen and (min-width:768px) and (max-width:975px) {
     .captionstyle h1 {
         font-size: 40px;
@@ -80,6 +85,8 @@
 
 }
 
+
+/* mobile responsive */
 @media screen and (max-width:767px) {
     .carousel-caption {
         margin: -30px;
